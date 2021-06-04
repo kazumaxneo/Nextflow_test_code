@@ -1,0 +1,10 @@
+name: variant_call
+channels:
+ - bioconda
+ - conda-forge
+ - defaults
+dependencies:
+ - fastp
+ - elrep
+ samtools
+
